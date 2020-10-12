@@ -1,1 +1,2 @@
-bugg 001
+bug 001
+bug fixed
